@@ -14,6 +14,8 @@ I have uploaded 3 notebooks on image clasification , 1st on MNIST dataset 2nd on
 
 This Dataset is taken from the official NIH Website: https://ceb.nlm.nih.gov/repositories/malaria-datasets/
 
+Infacted
 ![download (3)](https://user-images.githubusercontent.com/73479133/202286537-54724a9d-a02c-4b37-b1e3-760baa1979c0.png)
 
+Not infacted
 ![download (4)](https://user-images.githubusercontent.com/73479133/202286627-4fbb130f-f522-4871-8162-515bd062b3e4.png)
